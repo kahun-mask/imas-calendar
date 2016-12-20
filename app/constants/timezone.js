@@ -1,0 +1,1 @@
+exports.JAPAN = 'Asia/Tokyo';
